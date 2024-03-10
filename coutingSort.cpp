@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     //Algoritimo de sorting Counting Sort
-    //Complexidade O(n)
+    //Complexidade O(N)
     //Possui limitacoes quando trata-se de um problema que os valores do menor e maior numero do array sao bastante distintos
     
     vector<int> teste = {9 , 8 , 7 , 6 , 5 , 4 , 3 , 2 , 100000};
