@@ -7,7 +7,7 @@ int main(){
     	cin.tie(0);
 
         //Algoritmo para calcular a maior soma de um subarray
-        //Complexidade O(n)
+        //Complexidade O(N)
 
         int melhorSoma = 0;
 
