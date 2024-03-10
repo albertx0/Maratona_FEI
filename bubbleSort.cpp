@@ -7,7 +7,7 @@ int main(){
     	cin.tie(0);
 
       //Algoritmo de sorting bubbleSort
-      //Complexidade O(n^2)
+      //Complexidade O(N^2)
 
       int lista[] = {10 , 9 , 8 , 7 , 6 , 5 , 4 , 3 , 2 , 1};
       int n = 10;
