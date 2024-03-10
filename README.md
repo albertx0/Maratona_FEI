@@ -1,2 +1,2 @@
-- Site para acompanhar de maneira visual comom funciona diversos algoritmos.
+- Site para acompanhar de maneira visual como funciona diversos algoritmos.
   [https://visualgo.net/en](url)
