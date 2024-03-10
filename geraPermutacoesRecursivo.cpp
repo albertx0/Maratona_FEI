@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <ext/pb_ds/assoc_container.hpp>
 
 using namespace std;
 
@@ -12,7 +11,9 @@ void functionPermutations();
 int main(){
     	ios::sync_with_stdio(0);
     	cin.tie(0);
-        
+
+        //Funcao para exibir todas as permutacoes possiveis
+        //Complexidade O(N!)
         //Codigo pode ser facilmente adptado para numeros de acordo com a entrada do problema
         
         functionPermutations();
